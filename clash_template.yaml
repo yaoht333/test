@@ -1144,6 +1144,7 @@ rules:
  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
  - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
  - DOMAIN,www-cdn.icloud.com.akadns.net,🍎 苹果服务
+ - DOMAIN-SUFFIX,ip138.com,🎯 全球直连
  - DOMAIN-SUFFIX,qhres.com,🎯 全球直连
  - DOMAIN-SUFFIX,qhimg.com,🎯 全球直连
  - DOMAIN-SUFFIX,akadns.net,🎯 全球直连
