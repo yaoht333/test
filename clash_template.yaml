@@ -124,18 +124,18 @@ proxies:
 # VMess
 - name: "v2ray"
   type: vmess
-  server: 13.70.24.77
-  port: 59631
-  uuid: 3d459cdf-55a8-46a4-871c-7a46f9d8ee46
-  alterId: 233
+  server: server
+  port: 443
+  uuid: a3482e88-686a-4a58-8126-99c9df64b7bf
+  alterId: 64
   cipher: auto
   # udp: true
   # tls: true
   # skip-cert-verify: true
   # network: ws
   # ws-path: /path
-  # ws-headers: # 这一行后面不要写东西
-  #   Host: v2ray.com #填你的主机名
+  # ws-headers:
+  #   Host: v2ray.com
 
 # Trojan
 - name: "trojan"
@@ -719,9 +719,6 @@ Rule:
 - DOMAIN-SUFFIX,onedrive.live.com,PROXY
 - DOMAIN-SUFFIX,xboxlive.com,PROXY
 # > Facebook
-- DOMAIN-SUFFIX,v2raytech.com,PROXY
-- DOMAIN-SUFFIX,hijk.art,PROXY
-- DOMAIN-SUFFIX,hijk.pw,PROXY
 - DOMAIN-SUFFIX,cdninstagram.com,PROXY
 - DOMAIN-SUFFIX,fb.com,PROXY
 - DOMAIN-SUFFIX,fb.me,PROXY
@@ -758,7 +755,6 @@ Rule:
 - DOMAIN-KEYWORD,twitter,PROXY
 # > Telegram
 - DOMAIN-SUFFIX,t.me,PROXY
-- DOMAIN-SUFFIX,tlanyan.me,PROXY
 - DOMAIN-SUFFIX,tdesktop.com,PROXY
 - DOMAIN-SUFFIX,telegra.ph,PROXY
 - DOMAIN-SUFFIX,telegram.me,PROXY
