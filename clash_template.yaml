@@ -75,7 +75,7 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
-      - 🔰 节点选择
+      -   "v2ray"
   - name: 🛑 全球拦截
     type: select
     proxies:
