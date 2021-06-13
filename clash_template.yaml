@@ -237,7 +237,7 @@ proxy-groups:
 # 规则
 Rule:
 # Unbreak
- Google:
+# Google:
 - DOMAIN-SUFFIX,googletraveladservices.com,v2ray
 - DOMAIN,dl.google.com,v2ray
 - DOMAIN,mtalk.google.com,v2ray
