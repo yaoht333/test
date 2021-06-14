@@ -395,6 +395,8 @@ rules:
  - DOMAIN-SUFFIX,zbrushcn.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zhzzx.com,🛑 全球拦截
  - DOMAIN-SUFFIX,googletraveladservices.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,akamaiedge.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,amazonaws.com,🌍 国外媒体
  - DOMAIN,dl.google.com,🌍 国外媒体
  - DOMAIN,mtalk.google.com,🌍 国外媒体
  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
@@ -515,6 +517,7 @@ rules:
  - DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
  - DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
  - DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
+ - IP-CIDR,203.75.84.0/24,no-resolve,🌍 国外媒体
  - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
  - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
  - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
