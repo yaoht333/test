@@ -395,7 +395,6 @@ rules:
  - DOMAIN-SUFFIX,zbrushcn.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zhzzx.com,🛑 全球拦截
  - DOMAIN-SUFFIX,googletraveladservices.com,🌍 国外媒体
- - IP-CIDR,8.8.8.8/32,🌍 国外媒体
  - DOMAIN,dl.google.com,🌍 国外媒体
  - DOMAIN,mtalk.google.com,🌍 国外媒体
  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
