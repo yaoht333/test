@@ -49,11 +49,13 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - DIRECT
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - DIRECT
       -   "v2ray"
 
   - name: 📲 电报信息
