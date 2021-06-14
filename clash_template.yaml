@@ -394,6 +394,7 @@ rules:
  - DOMAIN-SUFFIX,yuanchengxiezuo.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zbrushcn.com,🛑 全球拦截
  - DOMAIN-SUFFIX,zhzzx.com,🛑 全球拦截
+ - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
  - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
  - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
  - DOMAIN-SUFFIX,kkbox.com,🌍 国外媒体
@@ -1060,7 +1061,7 @@ rules:
  - DOMAIN-SUFFIX,x.company,🔰 节点选择
  - DOMAIN-SUFFIX,youtu.be,🔰 节点选择
  - DOMAIN-SUFFIX,yt.be,🔰 节点选择
- - DOMAIN-SUFFIX,ytimg.com,🔰 节点选择
+
  - DOMAIN-SUFFIX,1drv.com,🔰 节点选择
  - DOMAIN-SUFFIX,1drv.ms,🔰 节点选择
  - DOMAIN-SUFFIX,blob.core.windows.net,🔰 节点选择
