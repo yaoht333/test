@@ -584,6 +584,7 @@ rules:
  - IP-CIDR6,2001:b28:f23d::/48,📲 电报信息,no-resolve
  - IP-CIDR6,2001:b28:f23f::/48,📲 电报信息,no-resolve
  - IP-CIDR6,2001:67c:4e8::/48,📲 电报信息,no-resolve
+ - DOMAIN-KEYWORD,netflix,🔰 节点选择
  - DOMAIN-SUFFIX,ampproject.org,🔰 节点选择
  - DOMAIN-SUFFIX,appspot.com,🔰 节点选择
  - DOMAIN-SUFFIX,blogger.com,🔰 节点选择
