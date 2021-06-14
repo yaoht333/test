@@ -399,6 +399,9 @@ rules:
  - DOMAIN-SUFFIX,amazonaws.com,🌍 国外媒体
  - DOMAIN,dl.google.com,🌍 国外媒体
  - DOMAIN,mtalk.google.com,🌍 国外媒体
+ - PROCESS-NAME,com.netflix.mediaclient,🌍 国外媒体
+ - DOMAIN-KEYWORD,netflix,🌍 国外媒体
+ - DOMAIN,netflix.com.edgesuite.net,🌍 国外媒体
  - DOMAIN-SUFFIX,ytimg.com,🌍 国外媒体
  - DOMAIN-SUFFIX,deezer.com,🌍 国外媒体
  - DOMAIN-SUFFIX,dzcdn.net,🌍 国外媒体
@@ -517,7 +520,35 @@ rules:
  - DOMAIN-SUFFIX,netflixdnstest7.com,🌍 国外媒体
  - DOMAIN-SUFFIX,netflixdnstest8.com,🌍 国外媒体
  - DOMAIN-SUFFIX,netflixdnstest9.com,🌍 国外媒体
- - IP-CIDR,203.75.84.0/24,no-resolve,🌍 国外媒体
+ - DOMAIN-SUFFIX,nflxext.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,nflximg.com,🌍 国外媒体
+ - DOMAIN-SUFFIX,nflximg.net,🌍 国外媒体
+ - DOMAIN-SUFFIX,nflxso.net,🌍 国外媒体 
+ - DOMAIN-SUFFIX,nflxvideo.net,🌍 国外媒体
+ - DOMAIN-KEYWORD,dualstack.apiproxy,🌍 国外媒体
+ - DOMAIN-KEYWORD,dualstack.ichnaea-web,🌍 国外媒体
+ - IP-CIDR,208.75.76.0/22,🌍 国外媒体,no-resolve
+ - IP-CIDR,207.45.72.0/22,🌍 国外媒体,no-resolve
+ - IP-CIDR,185.2.0.0/16,🌍 国外媒体,no-resolve
+ - IP-CIDR,185.9.0.0/16,🌍 国外媒体,no-resolve
+ - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
+ - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
+ - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
+ - IP-CIDR,108.175.32.0/20,🌍 国外媒体,no-resolve
+ - IP-CIDR,103.87.204.0/22,🌍 国外媒体,no-resolve
+ - IP-CIDR,103.87.205.0/24,🌍 国外媒体,no-resolve
+ - IP-CIDR,103.87.206.0/24,🌍 国外媒体,no-resolve
+ - IP-CIDR,103.87.207.0/24,🌍 国外媒体,no-resolve
+ - IP-CIDR,69.53.224.0/19,🌍 国外媒体,no-resolve
+ - IP-CIDR,64.120.128.0/17,🌍 国外媒体,no-resolve
+ - IP-CIDR,66.197.128.0/17,🌍 国外媒体,no-resolve
+ - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
+ - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
+ - IP-CIDR,34.210.42.111/32,🌍 国外媒体,no-resolve
+ - IP-CIDR,52.89.124.203/32,🌍 国外媒体,no-resolve
+ - IP-CIDR,54.148.37.5/32,🌍 国外媒体,no-resolve
+ - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
+ - IP-CIDR,203.75.84.0/24,🌍 国外媒体,no-resolve
  - IP-CIDR,23.246.0.0/18,🌍 国外媒体,no-resolve
  - IP-CIDR,37.77.184.0/21,🌍 国外媒体,no-resolve
  - IP-CIDR,45.57.0.0/17,🌍 国外媒体,no-resolve
