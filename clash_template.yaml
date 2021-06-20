@@ -199,13 +199,7 @@ rules:
  - DOMAIN-SUFFIX,wunderlist.com,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,yammer.com,Ⓜ️ 微软服务
  - DOMAIN-SUFFIX,yammerusercontent.com,Ⓜ️ 微软服务
- - DOMAIN,app.adjust.com,🎯 全球直连
 
- - DOMAIN,livew.l.qq.com,🎯 全球直连
- - DOMAIN,vd.l.qq.com,🎯 全球直连
- - DOMAIN,analytics.strava.com,🎯 全球直连
- - DOMAIN,msg.umeng.com,🎯 全球直连
- - DOMAIN,msg.umengcloud.com,🎯 全球直连
  - IP-CIDR,188.89.204.198/32,🛑 全球拦截,no-resolve
  - DOMAIN-SUFFIX,17gouwuba.com,🛑 全球拦截
  - DOMAIN-SUFFIX,186078.com,🛑 全球拦截
@@ -1206,6 +1200,9 @@ rules:
  - DOMAIN-SUFFIX,me.com,🍎 苹果服务
  - DOMAIN-SUFFIX,mzstatic.com,🍎 苹果服务
  - DOMAIN,www-cdn.icloud.com.akadns.net,🍎 苹果服务
+ - DOMAIN-SUFFIX,itv.d-net.tw,🎯 全球直连
+ - DOMAIN-SUFFIX,epg.d-net.tw,🎯 全球直连
+ - DOMAIN-SUFFIX,allepg.d-net.tw,🎯 全球直连 
  - DOMAIN-SUFFIX,ip138.com,🎯 全球直连
  - DOMAIN-SUFFIX,qhres.com,🎯 全球直连
  - DOMAIN-SUFFIX,qhimg.com,🎯 全球直连
@@ -1562,5 +1559,11 @@ rules:
  - DOMAIN-KEYWORD,yunpan,🎯 全球直连
  - DOMAIN-KEYWORD,Thunder,🎯 全球直连
  - DOMAIN-KEYWORD,XLLiveUD,🎯 全球直连
+ - DOMAIN,app.adjust.com,🎯 全球直连
+ - DOMAIN,livew.l.qq.com,🎯 全球直连
+ - DOMAIN,vd.l.qq.com,🎯 全球直连
+ - DOMAIN,analytics.strava.com,🎯 全球直连
+ - DOMAIN,msg.umeng.com,🎯 全球直连
+ - DOMAIN,msg.umengcloud.com,🎯 全球直连
  - GEOIP,CN,🎯 全球直连
  - MATCH,🐟 漏网之鱼
