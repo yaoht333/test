@@ -8,7 +8,7 @@ proxies:
   - name: "v2ray"
     type: vmess
     server: 23.98.33.40
-    port: 59631
+    port: 59630
     uuid: 3d459cdf-55a8-46a4-871c-7a46f9d8ee46
     alterId: 233
     cipher: auto
