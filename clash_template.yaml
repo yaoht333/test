@@ -21,7 +21,7 @@ proxies:
   #   Host: v2ray.com #填你的主机名
   - name: "v2ray_ap"
     type: vmess
-    server: 137.116.143.32
+    server: 20.212.60.172
     port: 59631
     uuid: 34945a21-2c4e-4418-90ac-4f7ca4fdccde
     alterId: 0
