@@ -7,7 +7,7 @@ external-controller: :9090
 proxies:
   - name: "v2ray"
     type: vmess
-    server: 104.208.78.126
+    server: 13.70.17.23
     port: 59631
     uuid: 34945a21-2c4e-4418-90ac-4f7ca4fdccde
     alterId: 0
