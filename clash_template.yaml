@@ -49,7 +49,6 @@ proxies:
   #   Host: v2ray.com #填你的主机名 
  
  
- 
 proxy-groups:
   - name: 🔰 节点选择
     type: select
