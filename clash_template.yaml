@@ -116,7 +116,6 @@ proxy-groups:
       - ♻️ 自动选择
       -   "v2ray"
       -   "v2ray_ap"
-      -   "netflix"
   - name: 🎯 全球直连
     type: select
     proxies:
