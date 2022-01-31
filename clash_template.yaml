@@ -5,6 +5,20 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - name: "netflix"
+    type: vmess
+    server: 104.208.81.121
+    port: 19816
+    uuid: 44d1ab12-2980-488d-9cfe-9c013c1978ad
+    alterId: 0
+    cipher: auto
+  # udp: true
+  # tls: true
+  # skip-cert-verify: true
+  # network: ws
+  # ws-path: /path
+  # ws-headers: # 这一行后面不要写东西
+  #   Host: v2ray.com #填你的主机名
   - name: "v2ray"
     type: vmess
     server: 13.70.17.23
