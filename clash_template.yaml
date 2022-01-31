@@ -5,20 +5,20 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - name: "netflix"
+  - name: netflix
     type: vmess
-    server: 104.208.83.203
+    server: xt000.xyz
     port: 443
     uuid: 17a58fef-cf3f-42fe-b76a-76b592dc98ee
     alterId: 0
     cipher: auto
-  # udp: true
     tls: true
-  # skip-cert-verify: false
+    #tls-hostname: s4.bilabilax.tk
+    #skip-cert-verify: true
     network: ws
     ws-path: /1TpqeX
-  # ws-headers: # 这一行后面不要写东西
-    Host: xt000.xyz #填你的主机名
+    ws-headers:
+      Host: xt000.xyz
   - name: "v2ray"
     type: vmess
     server: 13.70.17.23
