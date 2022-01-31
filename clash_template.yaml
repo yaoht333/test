@@ -48,12 +48,6 @@ proxies:
   # ws-headers: # 这一行后面不要写东西
   #   Host: v2ray.com #填你的主机名 
  
- 
- 
- 
- 
- 
- 
 proxy-groups:
   - name: 🔰 节点选择
     type: select
