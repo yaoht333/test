@@ -138,7 +138,7 @@ proxy-groups:
       - ♻️ 自动选择
       -   "v2ray"
       -   "v2ray_ap"
-      -   "netflix"
+
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
