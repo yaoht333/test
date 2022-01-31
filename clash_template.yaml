@@ -8,17 +8,17 @@ proxies:
   - name: "netflix"
     type: vmess
     server: 104.208.83.203
-    port: 43957
-    uuid: ca4df13a-84c7-40db-b7ce-c835008e2ea3
+    port: 443
+    uuid: 17a58fef-cf3f-42fe-b76a-76b592dc98ee
     alterId: 0
     cipher: auto
   # udp: true
-  # tls: true
-  # skip-cert-verify: true
-  # network: ws
-  # ws-path: /path
+    tls: true
+  # skip-cert-verify: false
+    network: ws
+    ws-path: /1TpqeX
   # ws-headers: # 这一行后面不要写东西
-  #   Host: v2ray.com #填你的主机名
+    Host: xt000.xyz #填你的主机名
   - name: "v2ray"
     type: vmess
     server: 13.70.17.23
