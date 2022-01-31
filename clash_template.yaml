@@ -7,7 +7,7 @@ external-controller: :9090
 proxies:
   - name: "netflix"
     type: vmess
-    server: 104.208.81.121
+    server: 104.208.81
     port: 19816
     uuid: 44d1ab12-2980-488d-9cfe-9c013c1978ad
     alterId: 0
