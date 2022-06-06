@@ -35,7 +35,7 @@ proxies:
       Host: xt000.xyz
   - name: "v2ray"
     type: vmess
-    server: 13.70.17.23
+    server: 20.24.210.12
     port: 59631
     uuid: 34945a21-2c4e-4418-90ac-4f7ca4fdccde
     alterId: 0
