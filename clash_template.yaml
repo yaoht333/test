@@ -613,7 +613,7 @@ rules:
  - IP-CIDR,192.173.64.0/18,🌍 国外媒体,no-resolve
  - IP-CIDR,198.38.96.0/19,🌍 国外媒体,no-resolve
  - IP-CIDR,198.45.48.0/20,🌍 国外媒体,no-resolve
- - IP-CIDR,216.239.35.12,🌍 国外媒体,no-resolve
+ - IP,216.239.35.12,🌍 国外媒体,no-resolve
  - DOMAIN-SUFFIX,dmc.nico,🌍 国外媒体
  - DOMAIN-SUFFIX,nicovideo.jp,🌍 国外媒体
  - DOMAIN-SUFFIX,nimg.jp,🌍 国外媒体
